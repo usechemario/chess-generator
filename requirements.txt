@@ -1,0 +1,5 @@
+chess==1.8.0
+
+cairosvg
+svglib
+reportlab
